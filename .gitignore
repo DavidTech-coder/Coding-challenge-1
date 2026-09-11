@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Build outputs (if any)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
